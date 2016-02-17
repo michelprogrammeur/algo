@@ -1,0 +1,19 @@
+{
+    "name": "root/hashcode",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antoine07",
+            "email": "antoine.lucsko@wanadoo.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "": "src"
+        }
+    }
+}
