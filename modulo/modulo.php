@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author antoine07
+ */
 $count = 0;
 $posts = range(0, 10);
 $nbPosts = count($posts);
